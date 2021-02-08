@@ -1,0 +1,51 @@
+#wrapper{
+
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+
+
+
+header{
+  height: 100px;
+  width: 100%;
+  background-color:pink;
+}
+nav{
+
+  height: 50px;
+  width: 100%;
+  background-color: #eaafff;
+}
+main{
+
+  height: 400px;
+  width: 60%;
+  background-color: #e6af1f;
+}
+aside{
+
+  height: 400px;
+  width: 40%;
+  background-color: #198a5d;
+}
+footer{
+
+  height: 50px;
+  width: 100%;
+  background-color: #9728ad;
+}
+#container{
+  display: flex;
+
+
+}
+
+a:hover {
+  color: green;
+  text-decoration: none;
+}
